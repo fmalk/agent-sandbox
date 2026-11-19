@@ -1,0 +1,12 @@
+{
+  "name": "agent-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
