@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Sandbox tests",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "node index.js",
+    "test": "node --test",
     "start": "node index.js"
   },
   "author": "",
